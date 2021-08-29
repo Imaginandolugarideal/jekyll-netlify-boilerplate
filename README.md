@@ -7,7 +7,7 @@ a continuous deployment workflow.**
 
 🔥 **This project is featured on Netlify's official [template showcase](http://templates.netlify.com/template/jekyll-with-netlify-cms-boilerplate/) and blog: [The top 10 Static Site Generators to watch in 2018](http://templates.netlify.com/template/jekyll-with-netlify-cms-boilerplate/)** 🔥
 
-* Minimal styling, ready to make your own
+* Minimal styling, ready to make your own==
 * Example blog posts, pages and contact form
 * Responsive CSS Grid layout with fallbacks for older browsers
 * Continuous Deployment workflow via Netlify and Github
